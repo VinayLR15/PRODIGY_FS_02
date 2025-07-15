@@ -58,8 +58,8 @@ PRODIGY_FS_02/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/VinayLR15/employee-management-system.git
-cd employee-management-system
+git clone https://github.com/VinayLR15/PRODIGY_FS_02.git
+cd PRODIGY_FS_02
 ```
 
 ### 2. Navigate to Backend Folder and Install Dependencies
@@ -120,8 +120,12 @@ Open the `public/login.html` or `public/register.html` in your browser manually,
 
 > *(Add real screenshots and update the links accordingly)*
 
-![Login Page](https://via.placeholder.com/800x400?text=Login+Page)
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Page)
+![WhatsApp Image 2025-07-15 at 15 27 27_b59ef188](https://github.com/user-attachments/assets/cf555977-caef-4d97-b890-a75e85e5ddeb)
+
+![WhatsApp Image 2025-07-15 at 15 28 08_9dcf9ea8](https://github.com/user-attachments/assets/4b1a305c-d25e-43a7-a301-cd748673f5bf)
+
+![WhatsApp Image 2025-07-15 at 15 26 41_5d8b7686](https://github.com/user-attachments/assets/6062c6c5-f427-4326-8e3f-a68745df8b1c)
+
 
 ---
 
