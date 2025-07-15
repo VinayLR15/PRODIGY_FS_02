@@ -118,13 +118,15 @@ Open the `public/login.html` or `public/register.html` in your browser manually,
 
 ## 📸 Screenshots
 
-> *(Add real screenshots and update the links accordingly)*
 
-![WhatsApp Image 2025-07-15 at 15 27 27_b59ef188](https://github.com/user-attachments/assets/cf555977-caef-4d97-b890-a75e85e5ddeb)
+<img width="1915" height="943" alt="image" src="https://github.com/user-attachments/assets/cb4685c2-6738-49ad-93c0-2d04079fb9c9" />
 
-![WhatsApp Image 2025-07-15 at 15 28 08_9dcf9ea8](https://github.com/user-attachments/assets/4b1a305c-d25e-43a7-a301-cd748673f5bf)
 
-![WhatsApp Image 2025-07-15 at 15 26 41_5d8b7686](https://github.com/user-attachments/assets/6062c6c5-f427-4326-8e3f-a68745df8b1c)
+<img width="1908" height="923" alt="image" src="https://github.com/user-attachments/assets/5e029654-8e80-402c-a3aa-58f2bc00520f" />
+
+
+<img width="1912" height="931" alt="image" src="https://github.com/user-attachments/assets/e87031af-0754-4514-aa13-16de0ce8c6ad" />
+
 
 
 ---
